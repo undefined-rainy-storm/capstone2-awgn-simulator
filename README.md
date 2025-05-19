@@ -13,4 +13,5 @@ rye run app
 During batch
 ```sh
 rye run batch
+rye run batch | (next chain)
 ```
